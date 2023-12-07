@@ -4,7 +4,7 @@ The digital future of cash!
 
 Monero for All
 
-monero.garden
+www.monero.garden
 
 ---
 
@@ -40,15 +40,14 @@ Naira has lost 68%.
 
 ---
 
-Be part of the revolution
+Be part of the monetary revolution
 
-Take the first step today!
-
-With Monero, you are not only a trader, but 
-also a pioneer in the new era of digital 
-commerce. It's not just a question of 
-technology, but also of trust, community 
-and the future.
+With Monero, you can be more than a 
+trader or buyer. Seize the opportunity 
+to take full control over your money and 
+become your own bank. You can take the 
+first steps today and be a pioneer in 
+the new era of digital commerce!
 
 # Page 2
 
@@ -69,7 +68,7 @@ There are several ways to get Monero (XMR).
 Earn it.
 1) Accept Monero at your business
 2) Sell items/services on moneromarket.io 
-   or XMRBazaar.com (coming soon)
+   or XMRBazaar.com
 
 Receive it.
 1) Remittances
@@ -107,6 +106,6 @@ For you
 
 “Thanks for using Monero.”
 
-monero.garden
+www.monero.garden
 
 ---
