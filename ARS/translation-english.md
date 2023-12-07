@@ -77,8 +77,9 @@ Receive it.
 	
 Buy it Peer to Peer (P2P).
 1) Use localmonero.co to buy XMR
-2) Use Binance P2P to buy LTC or BCH, 
-   then Exchange that for XMR in Cake Wallet
+2) Use paydece.io or Binance P2P to buy LTC 
+   or BCH, then exchange that for XMR in
+   Cake Wallet
    
 Mine it. Learn how at p2pool.io/#help
 
