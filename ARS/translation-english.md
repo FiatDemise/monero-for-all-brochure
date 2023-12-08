@@ -12,8 +12,10 @@ Why Monero?
 
 Privacy
 
-Monero transactions are inherently private and 
-untraceable by default.
+Unlike Bitcoin, or any of the other top 
+coins which make all transactions public,
+Monero transactions are inherently private
+and untraceable by default.
 
 Security
 
@@ -27,7 +29,7 @@ Send payments to anyone locally or
 worldwide without expensive fees or 
 waiting times.
 
-Decentralisation
+Decentralization
 
 Monero is a community currency that is not 
 controlled by a central authority.
@@ -105,7 +107,9 @@ For you
 
 ---
 
-“Thanks for using Monero.”
+“Thanks
+for using freedom
+money, Monero.”
 
 www.monero.garden
 
