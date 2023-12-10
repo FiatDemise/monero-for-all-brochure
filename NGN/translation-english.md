@@ -10,35 +10,25 @@ www.monero.garden
 
 Why Monero?
 
-Privacy
+Private
 
-Unlike Bitcoin, or any of the other top 
-coins which make all transactions public,
-Monero transactions are inherently private
-and untraceable by default.
+Unlike Bitcoin, or any of the other top coins which make all transactions public, Monero transactions are inherently private and untraceable by default.
 
-Security
+Secure
 
-Through the use of advanced cryptographic 
-techniques, the sending of payments is 
-secure and unalterable.
+Through the use of advanced cryptographic techniques, the receipt of payments is secure and unalterable.
 
-Acceptance
+Accepted
 
-Send payments to anyone locally or 
-worldwide without expensive fees or 
-waiting times.
+Send payments to anyone locally or worldwide without expensive fees orwaiting times.
 
-Decentralization
+Decentralized
 
-Monero is a community currency that is not 
-controlled by a central authority.
+Anyone can mine Monero using a computer to process transactions. This is why Monero is a community currency that is not controlled, manipulated or issued by a central authority.
 
-Value
+Valued
 
-Over the last 5 years (2018-2023), Monero
-has gained 218% vs the US dollar, while the 
-Naira has lost 68%.
+Over the last 5 years (2018-2023), Monero has gained 218% vs the US dollar, while the Naira has lost 68%.
 
 ---
 
