@@ -34,12 +34,7 @@ Over the last 5 years (2018-2023), Monero has gained 218% vs the US dollar, whil
 
 Be part of the monetary revolution
 
-With Monero, you can be more than a 
-trader or buyer. Seize the opportunity 
-to take full control over your money and 
-become your own bank. You can take the 
-first steps today and be a pioneer in 
-the new era of digital commerce!
+With Monero, you can be more than a trader or buyer. Seize the opportunity to take full control over your money and become your own bank. You can take the first steps today and be a pioneer in the new era of digital commerce!
 
 # Page 2
 
@@ -68,18 +63,13 @@ Receive it.
 	
 Buy it Peer to Peer (P2P).
 1) Use localmonero.co to buy XMR
-2) Use paydece.io or Binance P2P to buy LTC 
-   or BCH, then exchange that for XMR in
-   Cake Wallet
+2) Use paydece.io or Binance P2P to buy LTC or BCH, then exchange that for XMR in trocador.app
    
 Mine it. Learn how at p2pool.io/#help
 
 Step 3: 
 
-Spend it. Use your wallet to scan QR code 
-from merchant and confirm payment. Find 
-businesses worldwide that accept Monero at 
-monerica.com.
+Spend it. Use your wallet to scan QR code from merchant and confirm payment. Find businesses worldwide that accept Monero at monerica.com.
 
 ---
 
@@ -97,9 +87,7 @@ For you
 
 ---
 
-“Thanks
-for using freedom
-money, Monero.”
+“Thanks for using freedom money, Monero.”
 
 www.monero.garden
 
