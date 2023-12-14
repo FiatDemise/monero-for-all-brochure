@@ -4,7 +4,7 @@
 
 Monero para Todos
 
-monero.ar
+www.monero.ar
 ---
 
 ¿Por qué Monero?
@@ -85,6 +85,6 @@ Para vos
 
 "Gracias por usar el dinero de la libertad, Monero."
 
-monero.ar
+www.monero.ar
 
 ---
