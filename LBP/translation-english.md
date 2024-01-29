@@ -4,7 +4,7 @@ The digital future of cash!
 
 Monero for All
 
-www.monero.garden
+www.getmonero.org
 
 ---
 
@@ -25,7 +25,6 @@ Send payments to anyone locally or worldwide without expensive fees orwaiting ti
 Decentralized
 
 Anyone can mine Monero using a computer to process transactions. This is why Monero is a permissionless currency that is not controlled, manipulated or issued by any corporation or government.
-
 
 Valued
 
@@ -64,7 +63,7 @@ Buy it Peer to Peer (P2P).
 1) Use localmonero.co to buy XMR
 2) Use Binance P2P to buy LTC or BCH, then exchange that for XMR in trocador.app or stealthex.io
    
-Mine it. Learn how at p2pool.io/#help
+Mine it. Learn how at p2pool.io/#helpZ
 
 Step 3: 
 
@@ -88,6 +87,6 @@ For you
 
 “Thanks for using freedom money, Monero.”
 
-www.monero.garden
+www.getmonero.org
 
 ---
