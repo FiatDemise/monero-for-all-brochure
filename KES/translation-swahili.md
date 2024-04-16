@@ -43,14 +43,16 @@ Kuna njia kadhaa za kupata Monero (XMR).
 
 Pata.
 
-Kukubali Monero katika biashara yako
-Uza vitu au huduma kwenye http://moneromarket.io au http://XMRBazaar.com
-Pokea. Anzisha harambee katika http://kuno.anne.media
+1) Kukubali Monero katika biashara yako
+2) Uza vitu au huduma kwenye http://moneromarket.io au http://XMRBazaar.com
+Pokea. 
+
+Anzisha harambee katika http://kuno.anne.media
 
 Nunua Peer to Peer (P2P).
 
-Tumia http://localmonero.co kununua XMR
-Tumia http://paydece.io au Binance P2P kununua LTC au BCH, kisha ubadilishe hivyo kwa XMR katika http://trocador.app au http://stealthex.io
+1) Tumia http://localmonero.co kununua XMR
+2) Tumia http://paydece.io au Binance P2P kununua LTC au BCH, kisha ubadilishe hivyo kwa XMR katika http://trocador.app au http://stealthex.io
 
 Chimba. Jifunze jinsi katika http://p2pool.io/#help
 
@@ -63,6 +65,7 @@ Kwa ajili yako
 Faida
 
 Faragha: Wewe pekee unajua salio lako na miamala ya zamani.
+
 Kuzuia Udhibiti: Tumia Monero jinsi utakavyo, bila hatari ya kupoteza akaunti yako ya benki ya fiat.
 
 Miamala ya haraka: Tuma malipo karibu kwa wakati halisi.
@@ -71,7 +74,8 @@ Ada ndogo: Hakuna ada za kadi ya mkopo au benki.
 
 ---
 
-"Asante kwa kutumia pesa ya uhuru, Monero."
+"Asante 
+kwa kutumia pesa ya uhuru, Monero."
 
 www.getmonero.org
 
