@@ -59,9 +59,11 @@ Earn it.
 
 Receive it. Create a fundraiser at kuno.anne.media
 	
-Buy it Peer to Peer (P2P).
-1) Use localmonero.co to buy XMR
-2) Use Binance P2P to buy LTC or BCH, then exchange that for XMR in trocador.app or stealthex.io
+Buy XMR Peer to Peer (P2P) using
+	localmonero.co
+	
+Trade other crypto for XMR 
+	on trocador.app or stealthex.io
    
 Mine it. Learn how at p2pool.io/#help
 
