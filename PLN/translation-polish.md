@@ -1,93 +1,93 @@
 # Page 1
 
-The digital future of cash!
+Cyfrowa przyszłość gotówki!
 
-Monero for All
+Monero dla każdego
 
 www.getmonero.org
 
 ---
 
-Why Monero?
+Dlaczego Monero?
 
-Private
+Prywatność
 
-Unlike Bitcoin, or any of the other top coins which make all transactions public, Monero transactions are inherently private and untraceable by default.
+Wszystkie transakcje Bitcoina i innych topowych kryptowalut są publiczne zaś transakcje Monero są domyślnie prywatne i niemożliwe do wykrycia.
 
-Secure
+Bezpieczeństwo
 
-Through the use of advanced cryptographic techniques, the receipt of payments is secure and unalterable.
+Dzięki zastosowaniu zaawansowanych technik kryptograficznych odbiór płatności jest bezpieczny i niezmienny.
 
-Accepted
+Adaptacyjność
 
-Send payments to anyone locally or worldwide without expensive fees or waiting times.
+Wyślij płatności do kogokolwiek na świecie bez drogich opłat i długiego czasu oczekiwania.
 
-Decentralized
+Decentralizacja
 
-Anyone can mine Monero using a computer to process transactions. This is why Monero is a community currency that is not controlled, manipulated or issued by a central authority.
+Każdy może wydobywać Monero przy użyciu zwykłego komputera aby pomóc w przetwarzaniu transakcji. Dlatego Monero jest walutą, która nie jest kontrolowana, manipulowana ani emitowana przez organ centralny.
 
-Valued
+Wartość
 
-Over the last 5 years (2018-2023), Monero has gained 218% vs the US dollar, while the Polish Zloty has gained 11%.
+W ciągu ostatnich 5 lat (2018-2023) Monero zyskało 218% w stosunku do dolara amerykańskiego, podczas gdy polski złoty zyskał jedynie 11%.
 
 ---
 
-Be part of the monetary revolution
+Bądź częścią monetarnej rewolucji
 
-With Monero, you can be more than a trader or buyer. Seize the opportunity to take full control over your money and become your own bank. You can take the first steps today and be a pioneer in the new era of digital commerce!
+Dzięki Monero możesz być kimś więcej niż tylko sprzedającym lub kupującym. Przejmij pełną kontrolę nad swoimi pieniędzmi i stań się swoim własnym bankiem. Już dziś możesz podjąć pierwsze kroki i zostać pionierem w erze handlu cyfrowego!
 
 # Page 2
 
-As easy as cash, only digital!
+Proste jak gotówka, tylko cyfrowa
 
-Step 1:
+Krok 1:
 
-Install a Monero wallet on your smartphone. 
-There are many trusted and free apps in the
-App Store, Play Store and F-Droid. 
-Cake Wallet, Monerujo, MyMonero and 
-Mysu have proven themselves.
+Zainstaluj portfel Monero na swoim smartfonie. 
+Istnieje wiele zaufanych i bezpłatnych aplikacji w
+App Store, Play Store i F-Droid np.
+Cake Wallet, Monerujo, MyMonero i 
+Mysu.
 
-Step 2: 
+Krok 2: 
 
-There are several ways to get Monero (XMR).
+Monero (XMR) można zdobyć na kilka sposobów.
 
-Earn it.
-1) Accept Monero at your business
-2) Sell items or services on moneromarket.io 
-   or XMRBazaar.com
+Zarabiaj.
+1) Akceptuj Monero w swojej firmie
+2) Sprzedawaj przedmioty lub usługi na moneromarket.io 
+   lub XMRBazaar.com
 
-Receive it. Create a fundraiser at kuno.anne.media
+Zbieraj. Utwórz zbiórkę pieniędzy na kuno.anne.media
 	
-Buy XMR Peer to Peer (P2P) using
+Kupuj XMR Peer to Peer (P2P) używając
 	localmonero.co
 	
-Trade other crypto for XMR 
-	on trocador.app or stealthex.io
+Wymieniaj inne kryptowaluty na XMR 
+	na trocador.app lub stealthex.io
    
-Mine it. Learn how at p2pool.io/#help
+Wydobywaj. Dowiedz się, jak to robić na p2pool.io/#help
 
-Step 3: 
+Krok 3: 
 
-Spend it. Use your wallet to scan QR code from merchant and confirm payment. Find businesses worldwide that accept Monero at monerica.com.
-
----
-
-Advantages
-
-For you
-
-**Private**: Only you know your balance and previous transactions.
-
-**Censorship proof**: Use Monero how you want, without risk of losing your fiat bank account.
-
-**Fast transactions**: Send payments in almost real time.
-
-**Low fees**: No credit card or bank fees.
+Wydawaj. Użyj portfela, aby zeskanować kod QR od sprzedawcy i wyślij płatność. Znajdź firmy na całym świecie, które akceptują Monero na monerica.com.
 
 ---
 
-“Thanks for using freedom money, Monero.”
+Zalety
+
+Dla Ciebie
+
+**Prywatność**: Tylko Ty znasz swoje saldo i poprzednie transakcje.
+
+**Odporność na cenzurę**: Używaj Monero jak chcesz, bez ryzyka utraty konta bankowego.
+
+**Szybkie transakcje**: Wysyłaj płatności niemal w czasie rzeczywistym.
+
+**Niskie opłaty**: Brak opłat za kartę kredytową lub bankową.
+
+---
+
+"Dzięki za korzystanie z pieniędzy wolności, Monero".
 
 www.getmonero.org
 
