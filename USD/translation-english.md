@@ -32,9 +32,13 @@ Over the last 5 years (2018-2023), Monero has gained 218% vs the US dollar.
 
 ---
 
-Be part of the monetary revolution
+Separate Money and State
 
-With Monero, you can be more than a trader or buyer. Seize the opportunity to take full control over your money and become your own bank. You can take the first steps today and be a pioneer in the new era of digital commerce!
+“We can't take money violently out of the hands of government, all we can do is by some sly roundabout way introduce something that they can't stop.”
+- Friedrich A. Hayek
+
+"...soon be developed, is a reliable e-cash, a method whereby on the internet you can transfer funds... the way in which I can take a $20 bill and hand it over to you, with no record of where it came from."
+- Milton Friedman
 
 # Page 2
 
