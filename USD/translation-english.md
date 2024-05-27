@@ -4,7 +4,7 @@ The digital future of cash!
 
 Monero for All
 
-www.monero.garden
+www.getmonero.org
 
 ---
 
@@ -52,20 +52,24 @@ Step 2:
 
 There are several ways to get Monero (XMR).
 
+Trade other crypto for XMR 
+	on trocador.app or stealthex.io
+	
 Earn it.
 1) Accept Monero at your business
 2) Sell items or services on moneromarket.io 
-   or XMRBazaar.com
+   or xmrbazaar.com
+
+Buy XMR Peer to Peer (P2P) using
+	haveno.exchange
+
+Buy Monero as an Executor at monezon.com
+
+Buy Monero with KYC at kraken.com
 
 Receive it. Create a fundraiser at kuno.anne.media
-	
-Buy XMR Peer to Peer (P2P) using
-	localmonero.co
-	
-Trade other crypto for XMR 
-	on trocador.app or stealthex.io
-   
-Mine it. Learn how at p2pool.io/#help
+
+Mine it with gupax.io
 
 Step 3: 
 
@@ -89,6 +93,6 @@ For you
 
 “Thanks for using freedom money, Monero.”
 
-www.monero.garden
+www.getmonero.org
 
 ---
