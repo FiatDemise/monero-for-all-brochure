@@ -37,12 +37,11 @@ is why Monero is a community currency
 that is not issued, manipulated or
 controlled by a central authority.
 
-Fungible
+Valued
 
-Each unit of Monero is exactly the
-same as another because there is no
-history that shows where it was used,
-and by whom.
+Over the last 5 years (2018-2023),
+Monero has gained 218% vs the US
+dollar, while the Lira has lost 77%.
 
 ---
 
